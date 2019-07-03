@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/jindal/auction/auctionServies/Auctions_WSDL.java=UTF-8
+encoding//src/com/jindal/auction/auctionServies/Auctions_WSDLLocator.java=UTF-8
+encoding//src/com/jindal/auction/auctionServies/Auctions_WSDLPortType.java=UTF-8
+encoding//src/com/jindal/auction/auctionServies/Auctions_WSDLSoap11BindingStub.java=UTF-8
+encoding//src/com/jindal/auction/domain/xsd/CustomerServiceStatus.java=UTF-8
+encoding//src/com/jindal/auction/domain/xsd/ProductConfigDetails.java=UTF-8
